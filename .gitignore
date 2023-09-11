@@ -1,3 +1,4 @@
 llc.venv/
 LangChainNotebooks/
 setkey.py
+.ipynb_checkpoints/
